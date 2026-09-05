@@ -1,1 +1,1 @@
-print("Login Cpanel")
+print("Admin Cpanel")
